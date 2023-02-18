@@ -1,0 +1,21 @@
+.main{
+    text-align: center;
+    height: 300px;
+    width: 400px;
+    margin: auto;
+    background-color: rgb(160, 241, 173);
+    border-radius: 10px;
+}
+h1{
+    padding-top: 10px;
+    color: blue;
+    text-decoration: underline;
+}
+input,button,h2{
+    margin-top: 50px;
+}
+p{
+    color: blueviolet;
+    text-decoration: double;
+    font-size: large;
+}
